@@ -1,0 +1,4 @@
+# GraduationClassfition
+该脚本用于在众多相片中分类出有自己的相片
+
+在 GraduationClassifition
