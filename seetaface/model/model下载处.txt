@@ -1,0 +1,2 @@
+百度网盘：https://pan.baidu.com/share/init?surl=LlXe2-YsUxQMe-MLzhQ2Aw 提取码：ngne
+将下载的所有 *.csta 模型文件 放入 seetaface/model 目录下
